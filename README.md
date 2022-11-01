@@ -9,5 +9,5 @@ Batch Normalization is a popular technique to speed up the training of neural ne
 
 
 ### References for images 
-* https://towardsdatascience.com/batch-normalisation-explained-5f4bd9de5feb
-* https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html
+* [https://towardsdatascience.com/batch-normalisation-explained-5f4bd9de5feb](https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739#:~:text=Batch%20Norm%20is%20just%20another,of%20the%20next%20hidden%20layer.)
+* [How Does Batch Normalization Help Optimization?](https://papers.nips.cc/paper/2018/hash/905056c1ac1dad141560467e0a99e1cf-Abstract.html)
